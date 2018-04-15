@@ -2,8 +2,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col l6 s12">
-				<h5 class="white-text">Footer Content</h5>
-				<p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+				<h5 class="white-text">Desenvolvedor web</h5>
+				<p class="grey-text text-lighten-4">Desenvolvedor web <i>'invocado'</i> e apaixonado pelo que faz, estudante de Ciência da Computação e entusiasta de PHP.</p>
 			</div>
 			<div class="col l4 offset-l2 s12">
 				<h5 class="white-text">Tecnologias</h5>
@@ -19,7 +19,10 @@
 	<div class="footer-copyright">
 		<div class="container">
 			© 2018 - João AF
-			<a class="grey-text text-lighten-4 right" href="#!">Redes sociais</a>
+			<a class="text-lighten-4 right waves-effect waves-light social-icon btn instagram"><i class="fa fa-instagram"></i></a>
+			<a class="text-lighten-4 right waves-effect waves-light social-icon btn facebook"><i class="fa fa-facebook"></i></a>
+			<a class="text-lighten-4 right waves-effect waves-light social-icon btn github"><i class="fa fa-github"></i></a>
+			<a class="text-lighten-4 right waves-effect waves-light social-icon btn google"><i class="fa fa-youtube"></i></a>
 		</div>
 	</div>
 </footer>
