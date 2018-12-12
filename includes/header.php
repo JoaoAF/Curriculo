@@ -19,7 +19,7 @@
 			<ul id="nav-mobile" class="left hide-on-med-and-down">
 				<li><a href="#">Home</a></li>
 				<li><a href="#">Sobre</a></li>
-				<li><a href="#">falar comigo</a></li>
+				<li><a href="#">Falar comigo</a></li>
 				<li><a href="#">Entrar</a></li>
 			</ul>
 		</div>
